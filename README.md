@@ -14,12 +14,13 @@ Our public repositories represent a mix of open-source tools, experimental proje
 |---------|-------------|----------|
 | [accessibility](https://github.com/emmabyte-engineering/accessibility) | Drop-in accessibility preferences widget for any web application | TypeScript |
 | [affine-mcp](https://github.com/emmabyte-engineering/affine-mcp) | AFFiNE MCP integration | TypeScript |
+| [pulse](https://github.com/emmabyte-engineering/pulse) | Self-hosted observability platform | Svelte |
 
 ## Tech Stack
 
-**Languages:** TypeScript
+**Languages:** TypeScript, Svelte
 
-**Areas of focus:** Accessibility, developer tooling, MCP integrations
+**Areas of focus:** Accessibility, observability, developer tooling, MCP integrations
 
 ## Our Products
 
